@@ -2,10 +2,10 @@
 
   Para rodar o código corretamente, siga os passos abaixo.
 
-  1. **Inicie a máquina virtual**:   
-   ```python
-    venv/scripts/activate
-   ```
+  1. **Instalação**:
+     ```python
+     pip install antlr4-python3-runtime matplotlib
+     ```
   2. **Execute o ANTLR**:
      
    ```py
