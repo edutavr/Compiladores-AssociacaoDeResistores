@@ -12,5 +12,5 @@ pip install antlr4-python3-runtime matplotlib
 ```py
 java -jar antlr-4.13.2-complete.jar -Dlanguage=Python3 Expressoes.g4
 ```
-  3. **Inicie o compilador 'Expressoes.py'**
+  3. **Inicie o arquivo 'Expressoes.py'**
 
