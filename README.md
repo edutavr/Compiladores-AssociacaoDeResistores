@@ -1,5 +1,11 @@
 # Projeto da disciplina de Compiladores (2024.2) da Universidade de Pernambuco
 
+## Objetivos do projeto:
+  - Realização do cálculo da resistência equivalente da associação de resistores em série e/ou paralelo através da criação de uma gramática própria para isso, onde S representa a associação em série, e P, em paralelo;
+  - Plotagem dos resistores associados entre si. (Obs.: Para rodar a plotagem do gráfico, através do matplotlib, é necessário baixar o código, pois o codespace do github não oferece suporte a essa biblioteca)
+
+##
+
   Para rodar o código corretamente, siga os passos abaixo.
 
   1. **Instalação**:
