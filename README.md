@@ -34,4 +34,4 @@ java -jar antlr-4.13.2-complete.jar -Dlanguage=Python3 Expressoes.g4
   ## Autores do Projeto
 
   - Eduardo Távora Rocha
-  - Felipe Romero Pachecho Segundo
+  - Felipe Romero Pacheco Segundo
