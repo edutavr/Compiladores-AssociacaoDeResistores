@@ -6,7 +6,7 @@
 
 ## Funcionamento do código
   - Na gramática ANTLR, são definidas as regras sintáticas e léxicas, de modo que são permitidas expressões utilizando parênteses e que, entre elas pode-se optar pelo operador 'P' ou pelo operador 'S' (circuito em paralelo, ou, em série). São definidas também diferentes unidades, que podem ser 'm', 'M', 'k' ou 'K'. Ademais, são permitidos números decimais na entrada do valor dos resistores;<br/><br/>
-  - No código principal, foi implementada uma árvore binária para representar e avaliar expressões de resistores em série e paralelo. Cada nó da árvore corresponde a uma subexpressão, e as folhas da árvore correspondem a números (resistores). O código irá imprimir a estrutura hierárquica e irá calcular o valor da resistência equivalente, a exibindo no console.<br/>
+  - No código principal, foi implementada uma árvore binária para representar e avaliar expressões de resistores em série e paralelo. Cada nó da árvore corresponde a uma subexpressão, e as folhas da árvore correspondem a números (resistências). O código irá imprimir a estrutura hierárquica e irá calcular o valor da resistência equivalente, a exibindo no console.<br/>
       **Exemplo de funcionamento:**<br/>
       Para a expressão 20S5P30, a arvore binária correspondente será:
      ``` 
