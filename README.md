@@ -31,3 +31,7 @@ java -jar antlr-4.13.2-complete.jar -Dlanguage=Python3 Expressoes.g4
 ```
   3. **Inicie o arquivo 'Expressoes.py'**
 
+  ## Autores do Projeto
+
+  - Eduardo Távora Rocha
+  - Felipe Romero Pachecho Segundo
