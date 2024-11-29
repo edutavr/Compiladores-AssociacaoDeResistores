@@ -16,7 +16,7 @@
     |  |  Resistor: 5 Ω
     |  Resistor: 30 Ω
      ```
-      Ainda tratando do código principal, o mesmo irá chamar o a classe Circuit do arquivo plotagem.py, para, através do matplotlib, retornar o desenho esquematizado do circuito elétrico. Em resumo, plotagem.py calcula as posições dos componentes do circuito em uma primeira passagem e, em seguida, desenha esses componentes na segunda passagem, gerando uma visualização gráfica do circuito elétrico com resistores em série e paralelo.
+      Ainda tratando do código principal, o mesmo irá chamar a classe Circuit do arquivo plotagem.py, para, através do matplotlib, retornar o desenho esquematizado do circuito elétrico. Em resumo, plotagem.py calcula as posições dos componentes do circuito em uma primeira passagem e, em seguida, desenha esses componentes na segunda passagem, gerando uma visualização gráfica do circuito elétrico com resistores em série e paralelo.
 
   ## Instruções para rodar o código
   1. **Instalação**:
